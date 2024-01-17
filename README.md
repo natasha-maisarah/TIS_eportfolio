@@ -16,7 +16,7 @@
 <p align="left"><ol><li><a href="">C++ Foundation Studies Project</a></li></ol></p>
 
 <h2 align="left">Assignment</h2>
-<h3>📍 Industrial Visit to Nali 2023</h3><p align="justify">The visit to New Academia Learning Innovation (NALI) has endowed me with resources of a conducive to a progressive and holistic approach to education. By accentuating resilience education and providing a platform for innovation and collaboration, NALI has afforded me an opportunity to perceive the domain of teaching and learning from an elevated perspective. The opportunity to explore NALI has been enlightening and instills my anticipation to implement these insights into educational pursuits, thereby contributing to a broader progression of resilient and future-oriented pedagogy.<br><a href="">Report Assignment 1</a></p>
+<h3><a href="asg1.pdf">📍 Industrial Visit to Nali 2023</a></h3><p align="justify">The visit to New Academia Learning Innovation (NALI) has endowed me with resources of a conducive to a progressive and holistic approach to education. By accentuating resilience education and providing a platform for innovation and collaboration, NALI has afforded me an opportunity to perceive the domain of teaching and learning from an elevated perspective. The opportunity to explore NALI has been enlightening and instills my anticipation to implement these insights into educational pursuits, thereby contributing to a broader progression of resilient and future-oriented pedagogy.<br></p>
 <br><br>
 <h3>📍 Industrial Talk on Overview of ICT Jobs in Clarity Techworks</h3>
 <br><br>
