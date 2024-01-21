@@ -5,13 +5,31 @@
 
 <h2 align="left">Education</h2>
 <p align="left"><ul>
-<li>Smk Abdul Rahman Talib (2017 - 2021)</li>
-<li>Universiti Teknologi Mara (2022 - 2023)</li>
-<li>Universiti Teknologi Malaysia (2023 - Now)</li>
+<li>SMK Abdul Rahman Talib, SMART (2017 - 2021)<br>PT3: 9A | SPM: 6A+ 3A</li>
+<li>Foundation in Engineering at Universiti Teknologi Mara, UiTM (2022 - 2023)<br>CGPA: 3.94</li>
+<li>Bachelor's Degree in Software Engineering at Universiti Teknologi Malaysia, UTM (2023 - Now)</li>
 </ul></p>
-  
+
+<h2 align="left">Position</h2>
+<p align="left"><ul><li>Exco of Education for Hostel's Student Representative Council (2017 - 2020)</li>
+<li>Exco of Wellbeing for Student Representative Council at SMART (2020 - 2021)</li>
+<li>Secretary of Hostel's Student Representative Council (2021)</li></ul></p>
+
 <h2 align="left">Skills</h2>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a></p>
+
+<h2 align="left">Courses</h2>
+<p align="left"><ul><li>SECI1013 (Discrete Structure)</li>
+<li>SECJ1013 Programming Technique I</li>
+<li>SECR1013 Digital Logic</li>
+<li>SECP1513 Technology and Information System</li>
+<li>ULRS1032 Kursus Integriti dan Anti-Rasuah</li></ul></p>
+
+<h2 align="left">Certificate</h2>
+<p align="left"><ul><li>Honorable mention(Cadet) for Kangaroo Math Competition 2020</li>
+<li>Certificate of Participation for Pencarian Bakat Permata Pintar 2020</li>
+<li>Certificate of Participation(Student) for Kangaroo Math Competition 2021</li>
+<li>Gold Medal for 'Quran Height Detector' Innovation at Karnival Sains dan Teknologi Islam UiTM Dengkil</li></ul></p>
 
 <h2 align="left">Projects</h2>
 <p align="left"><ol><li><a href="Cinema Ticket Application.cpp">C Foundation Studies Project</a></li></ol></p>
