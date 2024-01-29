@@ -5,8 +5,9 @@
 
 <h2 align="left">Education</h2>
 <p align="left"><ul>
-<li>SMK Abdul Rahman Talib, SMART (2017 - 2021)<br>PT3: 9A | SPM: 6A+ 3A</li>
-<li>Foundation in Engineering at Universiti Teknologi Mara, UiTM (2022 - 2023)<br>CGPA: 3.94</li>
+<li>SK Indera Mahkota Utama, SKIMU<br>UPSR: 5A 1B</li><br>
+<li>SMK Abdul Rahman Talib, SMART (2017 - 2021)<br>PT3: 9A | SPM: 6A+ 3A</li><br>
+<li>Foundation in Engineering at Universiti Teknologi Mara, UiTM (2022 - 2023)<br>CGPA: 3.94</li><br>
 <li>Bachelor's Degree in Software Engineering at Universiti Teknologi Malaysia, UTM (2023 - Now)</li>
 </ul></p>
 
